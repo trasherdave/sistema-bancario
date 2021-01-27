@@ -46,7 +46,7 @@ O relatório de cobertura de código do JaCoCo **NÃO é gerado** se existir alg
 
 `/home/usuario/meus projetos/projeto incrível` 
 
-você deverá renomear as pastas para algo como (preferencialmente evitando acentos) 
+você deverá renomear as pastas para algo como (preferencialmente evitando acentos). 
 
 `/home/usuario/meus-projetos/projeto-incrivel`.
 ====
